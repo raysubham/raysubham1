@@ -8,7 +8,6 @@ I'm a Full-Stack Web Developer 🧑‍💻 and passionate learner 🧑‍🎓 wh
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Full Stack Development :metal:
-- 📝 &nbsp; Checkout my [Resume](https://www.subhamray.com/resume/Subham%20Ray.pdf)
 - 📫 &nbsp; How to reach me: [@self_programmed](https://twitter.com/self_programmed) or <a rel="me" target='_blank' href="https://subhamray.com/contact">here</a>
 - 😀 &nbsp;Fun fact: I love :orange:s
 
@@ -39,18 +38,18 @@ I'm a Full-Stack Web Developer 🧑‍💻 and passionate learner 🧑‍🎓 wh
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=selfprogrammed&hide_border=true" />
+  <img height="180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=selfprogrammed&hide_border=true" />
 </details>
 
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Pop! Os 21.04</li>
+  	    <li><b>OS:</b> Pop! OS 21.04</li>
   	    <li><b>Browser: </b> Brave Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to,Twitter,Hashnode and Medium.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Twitter, Hashnode and Medium.</li>
 	    <br />
 	</ul>	
 </details>
