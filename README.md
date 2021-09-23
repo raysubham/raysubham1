@@ -8,8 +8,7 @@ I'm a Full-Stack Web Developer 🧑‍💻 and passionate learner 🧑‍🎓 wh
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Full Stack Development :metal:
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/selfprogrammed).
 - 📝 &nbsp; Checkout my [Resume](https://www.subhamray.com/resume/Subham%20Ray.pdf)
-- 📫 &nbsp; How to reach me: [@self_programmed](https://twitter.com/self_programmed) or <a rel="me" href="https://subhamray.com/contact">here</a>
-- - ⚡ &nbsp;Fun fact: I :heart: eating :apple:s
+- 📫 &nbsp; How to reach me: [@self_programmed](https://twitter.com/self_programmed) or <a rel="me" target='_blank' href="https://subhamray.com/contact">here</a>
+- ⚡ &nbsp;Fun fact: I :heart: eating :apple:s
 
