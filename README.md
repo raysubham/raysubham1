@@ -5,9 +5,10 @@
 
 I'm a Full Stack Web Developer 🧑‍💻 and a passionate learner 🧑‍🎓 who's always willing to learn and work across mutiple modern technologies ✨.
 
-- 🔭 &nbsp;I’m currently learning React Server Components :wink:
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning Full Stack Web Development :metal:
 - 📫 &nbsp; How to reach me: [@subhamray](https://twitter.com/subhamray_) or <a rel="me" target='_blank' href="https://subhamray.com/contact">here</a>
-- 😀 &nbsp;Fun fact: I live on the terminal BTW
+- 😀 &nbsp;Fun fact: I love :orange:s
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
@@ -29,10 +30,25 @@ I'm a Full Stack Web Developer 🧑‍💻 and a passionate learner 🧑‍🎓 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raysubham&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raysubham&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=selfprogrammed&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfprogrammed&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
-	
-<summary><b>☄️ Github Streaks</b></summary>
-<br />
-<img height="180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=raysubham&hide_border=true" />
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+  <br />
+  <img height="180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=selfprogrammed&hide_border=true" />
+</details>
+
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Pop! OS 22.04</li>
+  	    <li><b>Browser: </b> Brave Web Browser</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (Starship Prompt)</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Twitter, Hashnode and Medium.</li>
+	    <br />
+	</ul>	
+</details>
